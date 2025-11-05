@@ -87,15 +87,6 @@ AI-powered PDF processing tool with OCR capabilities and interactive features
 - 📖 **Reading:** Research papers, ML documentation
 - 🎯 **Goal:** Make AI accessible and practical
 
-### 🗓️ Daily Routine
-
-| Time | Activity |
-|------|----------|
-| 🌅 Morning | ☕ Code & Learn |
-| 🌞 Afternoon | 🚀 Build Projects |
-| 🌆 Evening | 📚 Read & Research |
-| 🌙 Night | 💭 Plan Tomorrow |
-
 ---
 
 ## 💬 Let's Connect!
