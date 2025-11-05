@@ -82,22 +82,19 @@ AI-powered PDF processing tool with OCR capabilities and interactive features
 
 ## 🎯 Current Focus
 
-```python
-class CurrentGoals:
-    def __init__(self):
-        self.learning = ["Deep Learning", "Computer Vision", "NLP"]
-        self.building = ["AI-powered applications", "ML models"]
-        self.reading = ["Research papers", "ML documentation"]
-        self.goal = "Make AI accessible and practical"
-    
-    def get_daily_routine(self):
-        return {
-            "morning": "Code & Learn",
-            "afternoon": "Build Projects",
-            "evening": "Read & Research",
-            "night": "Plan Tomorrow"
-        }
-```
+- 📚 **Learning:** Deep Learning, Computer Vision, NLP
+- 🚀 **Building:** AI-powered applications, ML models  
+- 📖 **Reading:** Research papers, ML documentation
+- 🎯 **Goal:** Make AI accessible and practical
+
+### 🗓️ Daily Routine
+
+| Time | Activity |
+|------|----------|
+| 🌅 Morning | ☕ Code & Learn |
+| 🌞 Afternoon | 🚀 Build Projects |
+| 🌆 Evening | 📚 Read & Research |
+| 🌙 Night | 💭 Plan Tomorrow |
 
 ---
 
