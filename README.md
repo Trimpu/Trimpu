@@ -92,10 +92,10 @@ class CurrentGoals:
     
     def get_daily_routine(self):
         return {
-            "morning": "☕ Code & Learn",
-            "afternoon": "🚀 Build Projects",
-            "evening": "📚 Read & Research",
-            "night": "💭 Plan Tomorrow"
+            "morning": "Code & Learn",
+            "afternoon": "Build Projects",
+            "evening": "Read & Research",
+            "night": "Plan Tomorrow"
         }
 ```
 
