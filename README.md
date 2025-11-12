@@ -101,8 +101,6 @@ I'm always interested in collaborating on innovative AI/ML projects or discussin
 
 <div align="center">
 
-### ⚡ Fun Fact
-*"AI is not just about coding; it's about solving problems that matter!"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Trimpu&color=blueviolet&style=for-the-badge)
 
