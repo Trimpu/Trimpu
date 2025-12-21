@@ -59,10 +59,10 @@ Integration of OCR technology with Manim for automated mathematical animation ge
 - **Tech:** Python, OCR, Manim, Computer Vision
 - ⭐ 1 Star
 
-### 📄 [PixTeX OCR PDF](https://github.com/Trimpu/pixtex_ocr_pdf)
-AI-powered PDF processing tool with OCR capabilities and interactive features
+### 📄 [PDF2LATEX](https://github.com/Trimpu/PDF2LATEX)
+- PDF viewer integrated with mathocr processing tool where it converts selected coontent to latex which contain TEXT + MATH_EQUATIONS
 - **Tech:** React, Python, Flask, OCR, AI Integration
-- Advanced PDF viewer with video explanations and text recognition
+- It is a part of advanced PDF viewer with video explanations and text recognition (manim_ocr_integration" you can checkout in my repo)
 
 ---
 
