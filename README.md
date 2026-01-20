@@ -54,7 +54,7 @@
 
 ## 📌 Featured Projects
 
-### 🎬 [MANIM OCR Integration](https://github.com/Trimpu/MANIM_OCR_INTEGRATION)
+### 🎬 [MathVizAI](https://github.com/Trimpu/MathVizAI)
 Integration of OCR technology with Manim for automated mathematical animation generation
 - **Tech:** Python, OCR, Manim, Computer Vision
 - ⭐ 1 Star
