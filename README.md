@@ -93,7 +93,7 @@ Integration of OCR technology with Manim for automated mathematical animation ge
 
 I'm always interested in collaborating on innovative AI/ML projects or discussing new ideas in technology. Feel free to reach out!
 
-- 📧 **Email:** [Contact me on LinkedIn](https://www.linkedin.com/in/sambarapu-saianuj-898234276)
+- 📧 **Email:** [Contact me on LinkedIn](https://www.linkedin.com/in/saianuj-sambarapu-898234276)
 - 🐦 **Twitter:** [@S_Anuj01](https://x.com/S_Anuj01)
 - 📷 **Instagram:** [@0_0.anuj](https://www.instagram.com/0_0.anuj/)
 
